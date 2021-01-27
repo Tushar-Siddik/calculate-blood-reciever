@@ -1,4 +1,4 @@
-<style
+
 body {
   overflow-y: hidden;
   background: #f7f7f7;
@@ -25,8 +25,8 @@ body {
 #about a i.fa-github, #about a i.fa-globe {
   color: #24292e;
 }
-#about a i.fa-twitter {
-  color: #1da1f2;
+#about a i.fa-facebook {
+  color: #3b5998;
 }
 
 #content {
